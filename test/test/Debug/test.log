@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\32practice2\test\test\源.cpp(12): warning C4101: “ADC_Value”: 未引用的局部变量
+d:\32practice2\test\test\源.cpp(31): warning C4101: “temp”: 未引用的局部变量
+  test.vcxproj -> D:\32practice2\test\Debug\test.exe

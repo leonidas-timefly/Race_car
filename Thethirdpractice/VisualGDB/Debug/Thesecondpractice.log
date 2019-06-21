@@ -1,0 +1,40 @@
+﻿  game.c
+  9834.c
+  delay.c
+  gpio.c
+  ili9341.c
+  tim.c
+  stm32f4xx_it.c
+  stm32f4xx_hal_msp.c
+  main.c
+  system_stm32f4xx.c
+  stm32f4xx_hal.c
+  stm32f4xx_hal_rcc.c
+  stm32f4xx_hal_rcc_ex.c
+  stm32f4xx_hal_cortex.c
+  stm32f4xx_hal_exti.c
+  stm32f4xx_hal_tim.c
+  stm32f4xx_hal_tim_ex.c
+  stm32f4xx_hal_dma_ex.c
+  stm32f4xx_hal_dma.c
+  stm32f4xx_hal_pwr.c
+  stm32f4xx_hal_pwr_ex.c
+  stm32f4xx_hal_flash.c
+  stm32f4xx_hal_flash_ex.c
+  stm32f4xx_hal_flash_ramfunc.c
+  stm32f4xx_hal_gpio.c
+  xpt2046.c
+  race_car.c
+  startup_stm32f407xx.c
+  fsmc.c
+  stm32f4xx_ll_fsmc.c
+  stm32f4xx_hal_sram.c
+  adc.c
+  stm32f4xx_hal_adc.c
+  stm32f4xx_hal_adc_ex.c
+  dma.c
+  Linking VisualGDB/Debug/Thesecondpractice...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 52KB out of 1024KB (5%)
+  Used SRAM: 860 bytes out of 128KB (0%)
+  Used CCMRAM: 0 bytes out of 64KB (0%)
